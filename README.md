@@ -1,1 +1,1 @@
-"# Reservations" 
+Simple app for managing reservations
